@@ -1,15 +1,15 @@
 ---
-title: "Nome_Aluno(a)"
-image: "logo.png"
+title: "Lucas William Endringer Moura"
+image: "foto.png"
 links:
   - label: GitHub
-    url: "https://github.com/"
+    url: ""
   - label: Email
-    url: "mailto:name@gmail.com"
+    url: ""
   - label: Relatórios
-    url: "./relatorio/index.html"
+    url: "https://igorpereiravital.github.io/relatorios/relatorio/index.html"
 output:
   postcards::jolla
 ---
 
-Descrição sobre o aluno(a)!
+Estudante de Engenharia Mecatronica
